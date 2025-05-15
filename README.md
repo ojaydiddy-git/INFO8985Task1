@@ -12,3 +12,5 @@ ansible-playbook down.yml
 ```
 
 This does docker compose down on the clickhouse-setup/docker-compose-minimal.yaml (the same docker-compose file from up.yml)
+
+This is the first branch i am creating for the monitoring and logging course. Thanks
